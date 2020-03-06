@@ -6,13 +6,17 @@ namespace OOP2
     {
         static void Main(string[] args)
         {
+            Human basicHuman = new Human();
+            Human antonia = new Human("Antonia");
+            Human margarita = new Human("Margarita", "Mendoza");
+            Human arturo = new Human("Arturo", "Mendoza", "brown");
             Human israel = new Human("Israel", "Mendoza", "brown", 27);
-            Human arthur = new Human("Arthur", "Peterson", "green", 32);
-            Human ana = new Human("Ana", "Wagner", "green", 1);
             
+            basicHuman.IntroduceMyself();
+            antonia.IntroduceMyself();
+            margarita.IntroduceMyself();
+            arturo.IntroduceMyself();
             israel.IntroduceMyself();
-            arthur.IntroduceMyself();
-            ana.IntroduceMyself();
         }
     }
 }
