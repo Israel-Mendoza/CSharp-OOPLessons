@@ -1,0 +1,11 @@
+C:\Users\Israel Mendoza\Documents\C#\Basics\OOP\OOP4\bin\Debug\netcoreapp3.1\OOP4.exe
+C:\Users\Israel Mendoza\Documents\C#\Basics\OOP\OOP4\bin\Debug\netcoreapp3.1\OOP4.deps.json
+C:\Users\Israel Mendoza\Documents\C#\Basics\OOP\OOP4\bin\Debug\netcoreapp3.1\OOP4.runtimeconfig.json
+C:\Users\Israel Mendoza\Documents\C#\Basics\OOP\OOP4\bin\Debug\netcoreapp3.1\OOP4.runtimeconfig.dev.json
+C:\Users\Israel Mendoza\Documents\C#\Basics\OOP\OOP4\bin\Debug\netcoreapp3.1\OOP4.dll
+C:\Users\Israel Mendoza\Documents\C#\Basics\OOP\OOP4\bin\Debug\netcoreapp3.1\OOP4.pdb
+C:\Users\Israel Mendoza\Documents\C#\Basics\OOP\OOP4\obj\Debug\netcoreapp3.1\OOP4.csprojAssemblyReference.cache
+C:\Users\Israel Mendoza\Documents\C#\Basics\OOP\OOP4\obj\Debug\netcoreapp3.1\OOP4.AssemblyInfoInputs.cache
+C:\Users\Israel Mendoza\Documents\C#\Basics\OOP\OOP4\obj\Debug\netcoreapp3.1\OOP4.AssemblyInfo.cs
+C:\Users\Israel Mendoza\Documents\C#\Basics\OOP\OOP4\obj\Debug\netcoreapp3.1\OOP4.dll
+C:\Users\Israel Mendoza\Documents\C#\Basics\OOP\OOP4\obj\Debug\netcoreapp3.1\OOP4.pdb
